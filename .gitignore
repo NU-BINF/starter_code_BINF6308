@@ -6,3 +6,5 @@
 !*.Rmd
 !*.md
 !.gitignore
+!*.jpg
+!*.ris
